@@ -56,7 +56,7 @@ Points = Block size (n)
 
 1. Install Python 3.x
 2. Install Pygame: `pip install pygame`
-3. Run: `python dodge_the_blocks.py`
+3. Run: `Block_Dodge.py`
 
 ## Author
 
